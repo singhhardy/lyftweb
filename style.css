@@ -22,6 +22,8 @@ h3{
     color: var(--primary-color);
 }
 
+
+
 /* SWIPER */
 
 .swiper {
@@ -259,6 +261,17 @@ footer .last-footer .text-footer  img{
 
   .toggle-btn{
     display: block;
+  }
+
+  h1{
+    font-size: 20px;
+  }
+  h4{
+    font-size: 18px;
+  }
+
+  p{
+    font-size: 14px;
   }
 }
 
