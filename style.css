@@ -255,6 +255,10 @@ footer .last-footer .text-footer  img{
     margin-right: 4%;
   }
 
+  .plane{
+    display: none;
+  }
+
   .desk-nav{
     display: none;
   }
